@@ -28,8 +28,6 @@ namespace Exercicio_de_Fixação_2
 
                 somatoria += nota1[contador] + nota2[contador];
 
-                mediaClasse = somatoria / 10;
-
                 mediaAluno[contador] = (nota1[contador] + nota2[contador]) / 2;
 
                 if(mediaAluno[contador] >= 7)
@@ -44,6 +42,8 @@ namespace Exercicio_de_Fixação_2
                 contador++;
             }
 
+            mediaClasse = somatoria / 20;
+            
             Console.WriteLine($"A média da classe é de: {mediaClasse}");
             Console.WriteLine($"A Quantidade de Alunos APROVADOS é de: {qtdAprovados}");
             Console.WriteLine($"A Quantidade de Alunos REPROVADOS é de: {qtdReprovados}");
