@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CSharp\Estrutura Switch e Resto de divisão\obj\Debug\netcoreapp2.2\Estrutura Switch e Resto de divisão.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CSharp\Estrutura Switch e Resto de divisão\obj\Debug\netcoreapp2.2\Estrutura Switch e Resto de divisão.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CSharp\Estrutura Switch e Resto de divisão\obj\Debug\netcoreapp2.2\Estrutura Switch e Resto de divisão.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CSharp\Estrutura Switch e Resto de divisão\obj\Debug\netcoreapp2.2\Estrutura Switch e Resto de divisão.AssemblyInfo.cs
+C:\Users\fic\Desktop\CSharp\Estrutura Switch e Resto de divisão\bin\Debug\netcoreapp2.2\Estrutura Switch e Resto de divisão.deps.json
+C:\Users\fic\Desktop\CSharp\Estrutura Switch e Resto de divisão\bin\Debug\netcoreapp2.2\Estrutura Switch e Resto de divisão.runtimeconfig.json
+C:\Users\fic\Desktop\CSharp\Estrutura Switch e Resto de divisão\bin\Debug\netcoreapp2.2\Estrutura Switch e Resto de divisão.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CSharp\Estrutura Switch e Resto de divisão\bin\Debug\netcoreapp2.2\Estrutura Switch e Resto de divisão.dll
+C:\Users\fic\Desktop\CSharp\Estrutura Switch e Resto de divisão\bin\Debug\netcoreapp2.2\Estrutura Switch e Resto de divisão.pdb
+C:\Users\fic\Desktop\CSharp\Estrutura Switch e Resto de divisão\obj\Debug\netcoreapp2.2\Estrutura Switch e Resto de divisão.dll
+C:\Users\fic\Desktop\CSharp\Estrutura Switch e Resto de divisão\obj\Debug\netcoreapp2.2\Estrutura Switch e Resto de divisão.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Vetores e Laços\obj\Debug\netcoreapp2.2\Vetores e Laços.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Vetores e Laços\obj\Debug\netcoreapp2.2\Vetores e Laços.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Vetores e Laços\obj\Debug\netcoreapp2.2\Vetores e Laços.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Vetores e Laços\obj\Debug\netcoreapp2.2\Vetores e Laços.AssemblyInfo.cs
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Vetores e Laços\bin\Debug\netcoreapp2.2\Vetores e Laços.deps.json
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Vetores e Laços\bin\Debug\netcoreapp2.2\Vetores e Laços.runtimeconfig.json
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Vetores e Laços\bin\Debug\netcoreapp2.2\Vetores e Laços.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Vetores e Laços\bin\Debug\netcoreapp2.2\Vetores e Laços.dll
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Vetores e Laços\bin\Debug\netcoreapp2.2\Vetores e Laços.pdb
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Vetores e Laços\obj\Debug\netcoreapp2.2\Vetores e Laços.dll
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Vetores e Laços\obj\Debug\netcoreapp2.2\Vetores e Laços.pdb

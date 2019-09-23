@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CSharp\Calculadora Semana\obj\Debug\netcoreapp2.2\Calculadora Semana.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CSharp\Calculadora Semana\obj\Debug\netcoreapp2.2\Calculadora Semana.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CSharp\Calculadora Semana\obj\Debug\netcoreapp2.2\Calculadora Semana.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CSharp\Calculadora Semana\obj\Debug\netcoreapp2.2\Calculadora Semana.AssemblyInfo.cs
+C:\Users\fic\Desktop\CSharp\Calculadora Semana\bin\Debug\netcoreapp2.2\Calculadora Semana.deps.json
+C:\Users\fic\Desktop\CSharp\Calculadora Semana\bin\Debug\netcoreapp2.2\Calculadora Semana.runtimeconfig.json
+C:\Users\fic\Desktop\CSharp\Calculadora Semana\bin\Debug\netcoreapp2.2\Calculadora Semana.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CSharp\Calculadora Semana\bin\Debug\netcoreapp2.2\Calculadora Semana.dll
+C:\Users\fic\Desktop\CSharp\Calculadora Semana\bin\Debug\netcoreapp2.2\Calculadora Semana.pdb
+C:\Users\fic\Desktop\CSharp\Calculadora Semana\obj\Debug\netcoreapp2.2\Calculadora Semana.dll
+C:\Users\fic\Desktop\CSharp\Calculadora Semana\obj\Debug\netcoreapp2.2\Calculadora Semana.pdb

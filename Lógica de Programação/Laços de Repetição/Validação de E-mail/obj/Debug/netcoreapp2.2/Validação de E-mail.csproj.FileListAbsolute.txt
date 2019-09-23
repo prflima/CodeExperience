@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Validação de E-mail\obj\Debug\netcoreapp2.2\Validação de E-mail.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Validação de E-mail\obj\Debug\netcoreapp2.2\Validação de E-mail.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Validação de E-mail\obj\Debug\netcoreapp2.2\Validação de E-mail.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Validação de E-mail\obj\Debug\netcoreapp2.2\Validação de E-mail.AssemblyInfo.cs
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Validação de E-mail\bin\Debug\netcoreapp2.2\Validação de E-mail.deps.json
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Validação de E-mail\bin\Debug\netcoreapp2.2\Validação de E-mail.runtimeconfig.json
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Validação de E-mail\bin\Debug\netcoreapp2.2\Validação de E-mail.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Validação de E-mail\bin\Debug\netcoreapp2.2\Validação de E-mail.dll
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Validação de E-mail\bin\Debug\netcoreapp2.2\Validação de E-mail.pdb
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Validação de E-mail\obj\Debug\netcoreapp2.2\Validação de E-mail.dll
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Laços de Repetição\Validação de E-mail\obj\Debug\netcoreapp2.2\Validação de E-mail.pdb

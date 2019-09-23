@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CSharp\Média e Falta\bin\Debug\netcoreapp2.2\Média e Falta.deps.json
+C:\Users\fic\Desktop\CSharp\Média e Falta\bin\Debug\netcoreapp2.2\Média e Falta.runtimeconfig.json
+C:\Users\fic\Desktop\CSharp\Média e Falta\bin\Debug\netcoreapp2.2\Média e Falta.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CSharp\Média e Falta\bin\Debug\netcoreapp2.2\Média e Falta.dll
+C:\Users\fic\Desktop\CSharp\Média e Falta\bin\Debug\netcoreapp2.2\Média e Falta.pdb
+C:\Users\fic\Desktop\CSharp\Média e Falta\obj\Debug\netcoreapp2.2\Média e Falta.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CSharp\Média e Falta\obj\Debug\netcoreapp2.2\Média e Falta.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CSharp\Média e Falta\obj\Debug\netcoreapp2.2\Média e Falta.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CSharp\Média e Falta\obj\Debug\netcoreapp2.2\Média e Falta.AssemblyInfo.cs
+C:\Users\fic\Desktop\CSharp\Média e Falta\obj\Debug\netcoreapp2.2\Média e Falta.dll
+C:\Users\fic\Desktop\CSharp\Média e Falta\obj\Debug\netcoreapp2.2\Média e Falta.pdb

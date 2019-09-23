@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CSharp\Placa de Carro\bin\Debug\netcoreapp2.2\Placa de Carro.deps.json
+C:\Users\fic\Desktop\CSharp\Placa de Carro\bin\Debug\netcoreapp2.2\Placa de Carro.runtimeconfig.json
+C:\Users\fic\Desktop\CSharp\Placa de Carro\bin\Debug\netcoreapp2.2\Placa de Carro.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CSharp\Placa de Carro\bin\Debug\netcoreapp2.2\Placa de Carro.dll
+C:\Users\fic\Desktop\CSharp\Placa de Carro\bin\Debug\netcoreapp2.2\Placa de Carro.pdb
+C:\Users\fic\Desktop\CSharp\Placa de Carro\obj\Debug\netcoreapp2.2\Placa de Carro.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CSharp\Placa de Carro\obj\Debug\netcoreapp2.2\Placa de Carro.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CSharp\Placa de Carro\obj\Debug\netcoreapp2.2\Placa de Carro.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CSharp\Placa de Carro\obj\Debug\netcoreapp2.2\Placa de Carro.AssemblyInfo.cs
+C:\Users\fic\Desktop\CSharp\Placa de Carro\obj\Debug\netcoreapp2.2\Placa de Carro.dll
+C:\Users\fic\Desktop\CSharp\Placa de Carro\obj\Debug\netcoreapp2.2\Placa de Carro.pdb

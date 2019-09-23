@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CSharp\Calculo de salário\bin\Debug\netcoreapp2.2\Calculo de salário.deps.json
+C:\Users\fic\Desktop\CSharp\Calculo de salário\bin\Debug\netcoreapp2.2\Calculo de salário.runtimeconfig.json
+C:\Users\fic\Desktop\CSharp\Calculo de salário\bin\Debug\netcoreapp2.2\Calculo de salário.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CSharp\Calculo de salário\bin\Debug\netcoreapp2.2\Calculo de salário.dll
+C:\Users\fic\Desktop\CSharp\Calculo de salário\bin\Debug\netcoreapp2.2\Calculo de salário.pdb
+C:\Users\fic\Desktop\CSharp\Calculo de salário\obj\Debug\netcoreapp2.2\Calculo de salário.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CSharp\Calculo de salário\obj\Debug\netcoreapp2.2\Calculo de salário.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CSharp\Calculo de salário\obj\Debug\netcoreapp2.2\Calculo de salário.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CSharp\Calculo de salário\obj\Debug\netcoreapp2.2\Calculo de salário.AssemblyInfo.cs
+C:\Users\fic\Desktop\CSharp\Calculo de salário\obj\Debug\netcoreapp2.2\Calculo de salário.dll
+C:\Users\fic\Desktop\CSharp\Calculo de salário\obj\Debug\netcoreapp2.2\Calculo de salário.pdb

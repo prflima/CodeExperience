@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Exercicio de Fixação 2\bin\Debug\netcoreapp2.2\Exercicio de Fixação 2.deps.json
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Exercicio de Fixação 2\bin\Debug\netcoreapp2.2\Exercicio de Fixação 2.runtimeconfig.json
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Exercicio de Fixação 2\bin\Debug\netcoreapp2.2\Exercicio de Fixação 2.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Exercicio de Fixação 2\bin\Debug\netcoreapp2.2\Exercicio de Fixação 2.dll
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Exercicio de Fixação 2\bin\Debug\netcoreapp2.2\Exercicio de Fixação 2.pdb
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Exercicio de Fixação 2\obj\Debug\netcoreapp2.2\Exercicio de Fixação 2.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Exercicio de Fixação 2\obj\Debug\netcoreapp2.2\Exercicio de Fixação 2.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Exercicio de Fixação 2\obj\Debug\netcoreapp2.2\Exercicio de Fixação 2.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Exercicio de Fixação 2\obj\Debug\netcoreapp2.2\Exercicio de Fixação 2.AssemblyInfo.cs
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Exercicio de Fixação 2\obj\Debug\netcoreapp2.2\Exercicio de Fixação 2.dll
+C:\Users\fic\Desktop\Projetos CodeExperience\CSharp\Exercicio de Fixação 2\obj\Debug\netcoreapp2.2\Exercicio de Fixação 2.pdb

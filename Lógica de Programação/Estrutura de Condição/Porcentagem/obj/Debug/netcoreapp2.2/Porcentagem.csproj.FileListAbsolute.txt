@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CSharp\Porcentagem\bin\Debug\netcoreapp2.2\Porcentagem.deps.json
+C:\Users\fic\Desktop\CSharp\Porcentagem\bin\Debug\netcoreapp2.2\Porcentagem.runtimeconfig.json
+C:\Users\fic\Desktop\CSharp\Porcentagem\bin\Debug\netcoreapp2.2\Porcentagem.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CSharp\Porcentagem\bin\Debug\netcoreapp2.2\Porcentagem.dll
+C:\Users\fic\Desktop\CSharp\Porcentagem\bin\Debug\netcoreapp2.2\Porcentagem.pdb
+C:\Users\fic\Desktop\CSharp\Porcentagem\obj\Debug\netcoreapp2.2\Porcentagem.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CSharp\Porcentagem\obj\Debug\netcoreapp2.2\Porcentagem.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CSharp\Porcentagem\obj\Debug\netcoreapp2.2\Porcentagem.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CSharp\Porcentagem\obj\Debug\netcoreapp2.2\Porcentagem.AssemblyInfo.cs
+C:\Users\fic\Desktop\CSharp\Porcentagem\obj\Debug\netcoreapp2.2\Porcentagem.dll
+C:\Users\fic\Desktop\CSharp\Porcentagem\obj\Debug\netcoreapp2.2\Porcentagem.pdb
