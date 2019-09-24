@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Cadastro de Produtos com FOr\bin\Debug\netcoreapp2.2\Cadastro de Produtos com FOr.deps.json
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Cadastro de Produtos com FOr\bin\Debug\netcoreapp2.2\Cadastro de Produtos com FOr.runtimeconfig.json
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Cadastro de Produtos com FOr\bin\Debug\netcoreapp2.2\Cadastro de Produtos com FOr.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Cadastro de Produtos com FOr\bin\Debug\netcoreapp2.2\Cadastro de Produtos com FOr.dll
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Cadastro de Produtos com FOr\bin\Debug\netcoreapp2.2\Cadastro de Produtos com FOr.pdb
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Cadastro de Produtos com FOr\obj\Debug\netcoreapp2.2\Cadastro de Produtos com FOr.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Cadastro de Produtos com FOr\obj\Debug\netcoreapp2.2\Cadastro de Produtos com FOr.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Cadastro de Produtos com FOr\obj\Debug\netcoreapp2.2\Cadastro de Produtos com FOr.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Cadastro de Produtos com FOr\obj\Debug\netcoreapp2.2\Cadastro de Produtos com FOr.AssemblyInfo.cs
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Cadastro de Produtos com FOr\obj\Debug\netcoreapp2.2\Cadastro de Produtos com FOr.dll
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Cadastro de Produtos com FOr\obj\Debug\netcoreapp2.2\Cadastro de Produtos com FOr.pdb

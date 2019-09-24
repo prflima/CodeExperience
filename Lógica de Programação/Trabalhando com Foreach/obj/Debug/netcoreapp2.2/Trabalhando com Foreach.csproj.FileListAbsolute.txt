@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Trabalhando com Foreach\obj\Debug\netcoreapp2.2\Trabalhando com Foreach.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Trabalhando com Foreach\obj\Debug\netcoreapp2.2\Trabalhando com Foreach.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Trabalhando com Foreach\obj\Debug\netcoreapp2.2\Trabalhando com Foreach.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Trabalhando com Foreach\obj\Debug\netcoreapp2.2\Trabalhando com Foreach.AssemblyInfo.cs
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Trabalhando com Foreach\bin\Debug\netcoreapp2.2\Trabalhando com Foreach.deps.json
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Trabalhando com Foreach\bin\Debug\netcoreapp2.2\Trabalhando com Foreach.runtimeconfig.json
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Trabalhando com Foreach\bin\Debug\netcoreapp2.2\Trabalhando com Foreach.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Trabalhando com Foreach\bin\Debug\netcoreapp2.2\Trabalhando com Foreach.dll
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Trabalhando com Foreach\bin\Debug\netcoreapp2.2\Trabalhando com Foreach.pdb
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Trabalhando com Foreach\obj\Debug\netcoreapp2.2\Trabalhando com Foreach.dll
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Trabalhando com Foreach\obj\Debug\netcoreapp2.2\Trabalhando com Foreach.pdb

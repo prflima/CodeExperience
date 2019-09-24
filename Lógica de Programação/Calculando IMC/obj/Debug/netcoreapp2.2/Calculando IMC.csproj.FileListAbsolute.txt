@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Calculando IMC\obj\Debug\netcoreapp2.2\Calculando IMC.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Calculando IMC\obj\Debug\netcoreapp2.2\Calculando IMC.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Calculando IMC\obj\Debug\netcoreapp2.2\Calculando IMC.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Calculando IMC\obj\Debug\netcoreapp2.2\Calculando IMC.AssemblyInfo.cs
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Calculando IMC\bin\Debug\netcoreapp2.2\Calculando IMC.deps.json
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Calculando IMC\bin\Debug\netcoreapp2.2\Calculando IMC.runtimeconfig.json
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Calculando IMC\bin\Debug\netcoreapp2.2\Calculando IMC.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Calculando IMC\bin\Debug\netcoreapp2.2\Calculando IMC.dll
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Calculando IMC\bin\Debug\netcoreapp2.2\Calculando IMC.pdb
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Calculando IMC\obj\Debug\netcoreapp2.2\Calculando IMC.dll
+C:\Users\fic\Desktop\Projetos CodeExperience\Lógica de Programação\Calculando IMC\obj\Debug\netcoreapp2.2\Calculando IMC.pdb
